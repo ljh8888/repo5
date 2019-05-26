@@ -10,4 +10,9 @@ public class Main {
         System.out.println("吃饭呢");
     }
 
+
+    public void run() {
+        System.out.println("奔跑");
+    }
+
 }
