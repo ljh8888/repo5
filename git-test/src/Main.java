@@ -27,5 +27,7 @@ public class Main {
         System.out.println("删除");
     }
 
-
+    public void update() {
+        System.out.println("更新");
+    }
 }
