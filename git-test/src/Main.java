@@ -15,8 +15,9 @@ public class Main {
         System.out.println("奔跑");
     }
 
-    public void sleep(){
-        System.out.println("睡觉");
+    public void happy(){
+        System.out.println("开心");
     }
+
 
 }
