@@ -5,4 +5,9 @@ public class Main {
 
 
     }
+
+    public void eat(){
+        System.out.println("吃饭呢");
+    }
+
 }
